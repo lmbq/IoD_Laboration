@@ -1,0 +1,166 @@
+            Riksarkivet 
+  RA-FS 2008:4, beslutat 2008-12-09
+         www.riksarkivet.se
+
+1 kap. Tillämpning
+4 § Riksarkivet kan föreskriva om undantag från föreskrifterna i 6 kap. om
+det finns särskilda skäl.
+
+
+
+6 kap. Arkivredovisning
+Arkivredovisningens funktion och omfattning
+
+1 § Myndigheten ska upprätta en arkivredovisning som gör det möjligt att
+– förstå sambanden mellan verksamhet och handlingar,
+– överblicka handlingsbeståndet,
+– söka och ta fram handlingar, och
+– hantera och förvalta handlingar.
+
+2 § Arkivredovisningen ska omfatta myndighetens hela handlingsbestånd.
+
+3 § Arkivredovisningen ska bestå av uppgifter som kan presenteras som
+– en arkivbeskrivning,
+– en klassificeringsstruktur med processbeskrivningar, och
+– en arkivförteckning.
+ Arkivredovisningens uppgifter ska relateras till varandra över tiden.
+Till arkivredovisningen ska knytas uppgifter om hur arkivredovisningen
+ska användas.
+
+Allmänna råd
+Uppgifter enligt tredje stycket avser t.ex. uppgifter om arkivredovisningens
+utformning, standarder och metoder som har använts vid utarbetandet, och
+förklaring av använda symboler och koder.
+
+4 § Arkivredovisningen ska hållas aktuell genom att uppdateras fortlöpande
+
+
+
+Arkivbeskrivning
+
+5 § Arkivbeskrivningen ska bestå av följande uppgifter om myndigheten,
+verksamheten, arkivet och arkivverksamheten:
+– myndighetens namn,
+– tidpunkt för myndighetens tillkomst (och upphörande),
+– myndighetens verksamhet,
+– myndighetens organisation,
+– sökmedel till arkivet,
+– inskränkningar i arkivets tillgänglighet genom sekretess och gallring,
+– överlämnande av arkiv från annan myndighet eller enskild,
+– överlämnande av arkiv till annan myndighet eller arkivmyndighet, och
+– arkivverksamhetens organisation.
+
+6 § När uppgifter i arkivbeskrivningen har blivit inaktuella ska en ny version
+av arkivbeskrivningen upprättas.
+Arkivbeskrivningen ska ges en struktur som underlättar en samlad presentation
+av versionerna.
+
+
+
+Klassificeringsstruktur
+Representation av verksamheten
+
+7 § Myndigheten ska fastställa en klassificeringsstruktur som representerar
+verksamheten.
+Klassificeringsstrukturen ska användas för klassificering vid upprättande
+av arkivförteckning.
+
+Allmänna råd
+Klassificeringsstrukturen bör användas som utgångspunkt vid registrering, enligt
+15 kap. sekretesslagen.
+
+8 § Klassificeringsstrukturen ska vara hierarkiskt-systematiskt uppbyggd.
+Den översta nivån i klassificeringsstrukturen ska representera myndighetens
+verksamhetsområden, och den nedersta nivån de processer som har
+identifierats i verksamheten. Klassificeringsstrukturen får omfatta flera nivåer.
+
+Allmänna råd
+På klassificeringsstrukturens översta nivå bör verksamheterna ges följande
+ordning:
+– styrande verksamheter,
+– stödjande verksamheter, och
+– kärnverksamheter.
+
+9 § Samtliga processer som avsätter handlingar ska representeras i klassificeringsstrukturen.
+Uppgifter om klassificeringsstrukturen
+
+10 § Följande uppgifter ska anges om klassificeringsstrukturen:
+– myndighetens namn,
+– klassificeringsstrukturens versionsnummer,
+– tidpunkt när klassificeringsstrukturen tas i bruk,
+– tidpunkt när klassificeringsstrukturen avslutas, och
+– myndighetens beslut.
+
+Uppgifter om strukturenheterna
+11 § Följande uppgifter ska anges om strukturenheterna på samtliga nivå-
+er:
+– beteckning på strukturenheten,
+– namn på strukturenheten.
+Strukturenhetens beteckning ska bildas genom numerisk punktnotation.
+Ändringar av strukturenheterna
+
+12 § Vid ändringar i verksamheten får strukturenheter läggas till eller avslutas.
+Gamla och nya strukturenheter som har ett nära samband ska relateras till
+varandra.
+En beteckning får inte återanvändas inom samma struktur.
+
+13 § För en nytillkommen strukturenhet ska följande uppgifter anges, förutom
+beteckning och namn enligt 11 §:
+– tidpunkt när strukturenheten tas i bruk, och
+– myndighetens beslut.
+När en strukturenhet avslutas ska tidpunkten för detta anges.
+Ny klassificeringsstruktur
+
+14 § Vid genomgripande förändringar av verksamheten, eller när klassificeringsstrukturen
+riskerar att bli oöverskådlig på grund av ändringar, ska
+den avslutas och en ny tas i bruk.
+Vid byte av struktur ska strukturenheter som har ett nära samband relateras
+till varandra.
+
+
+
+Processbeskrivningar
+
+15 § Samtliga processer som representeras i klassificeringsstrukturen ska
+beskrivas grafiskt eller i text.
+Det ska framgå av processbeskrivningen vad som initierar och avslutar en
+process samt vilka aktiviteter som vanligtvis ingår i processen. I de fall
+myndigheten arbetar i en process som är gemensam med annan myndighet
+eller enskild ska detta framgå.
+Processbeskrivningen får utelämnas om det är uppenbart att den inte behövs
+för förståelsen av processen eller dess samband med det handlingsslag
+som bildas
+
+
+
+Arkivförteckning
+Redovisning av handlingsslag och handlingstyper
+
+16 § Följande uppgifter ska anges om handlingsslag och handlingstyper:
+– beteckning på handlingsslaget,
+– namn på handlingsslaget,
+– namn på ingående handlingstyper,
+– handlingsslagets och de ingående handlingstypernas organisation,
+– gallring, och
+– sekretess.
+
+17 § Om en handlingstyp utgörs av sammanställningar ur en databas ska RA-FS 2008:4
+följande uppgifter anges:
+– typer av uppgifter som ingår i handlingstypen,
+– hur handlingstypen presenteras,
+– samband med andra handlingstyper,
+– i vilken eller vilka databaser handlingstypen ingår, och
+– samband med dokumentation över systemet eller systemen.
+Redovisning av förvaringsenheter
+
+18 § Följande uppgifter om förvaringsenheterna ska anges i den utsträckning
+som behövs för handlingarnas identifiering, åtkomst och hantering
+över tiden:
+– beteckning på förvaringsenheten,
+– typ av förvaringsenhet,
+– förvaringsenhetens omfattning, och
+– förvaringsenhetens fysiska placering.
+
+19 § Klassificeringsstruktur, handlingsslag och förvaringsenheter ska relateras
+till varandra över tiden.
+Uppgifterna ska kunna presenteras samlat.
