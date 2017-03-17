@@ -11,7 +11,7 @@ Det finns ingen projekthemsida för detta experiment, utan all information komme
 Istället för att redovisa på vilket sätt myndigheters handlingar får delas och användas, som en mer traditionell öppenkällkodslicens kanske hade fungerat, har jag valt att använda Riksarkivets RA-FS 2008:4. Som licens informerar den om hur dokumentationen ska redovisas för att kunna delas, användas och återanvändas. 
 
 # Instruktioner
-
+Eftersom jag inte har någon kunskap om programmering och kodning och dessvärre inte tillfälle att sätta mig in i det kommer den här repositoryn inte innehålla några kodningsrelaterade filer. Istället redovisas Dokumenthanteringsplanen i en mappstruktur. Tanken är att uppdateringar/ förändringar ska vara enkelt att spåra och att flera ska kunna delta i arbetet, precis som i ett ”riktigt” källkodsprojekt. 
 
 # Medvverkande
 I filen för medverkande listas de projekt och myndigheter som stått till grund för den här laborationen och är en typ av arkivförteckning. Informationen som redovisas i Dokumenthanteringsplanen är tagen från Nässjö Kommuns arkivredovisning. 
