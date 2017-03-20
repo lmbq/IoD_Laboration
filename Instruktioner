@@ -1,1 +1,9 @@
+Jag har försökt översätta arkivredovisningens tre huvuddelar till ett öppenkällkodsprojektformat i GitHub. 
+Arkivbeskrivningen är som sagt ovan det här ReadMe-dokumentet. 
+Arkivförteckningen tas upp i filen för Medverkande och dokumenthanteringsplanen med en klassificeringsstruktur, 
+verkar som en grundpelare i den mer kodningsrelaterade delen här i GitHub.
 
+Eftersom jag inte har någon kunskap om programmering och kodning och dessvärre inte tillfälle att sätta mig in i det 
+kommer den här repositoryn inte innehålla några egentliga kodningsrelaterade filer. Istället redovisas Dokumenthanteringsplanen 
+i en mappstruktur som om den vore kodningen. Tanken är att uppdateringar/ förändringar ska vara enkelt att spåra och att flera ska 
+kunna delta i arbetet, precis som i ett ”riktigt” källkodsprojekt.
